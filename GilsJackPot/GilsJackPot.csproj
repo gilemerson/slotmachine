@@ -58,7 +58,30 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\main.css" />
-    <Content Include="jackpot.html" />
+    <Content Include="images\bannana.gif" />
+    <Content Include="images\bar.gif" />
+    <Content Include="images\bell.gif" />
+    <Content Include="images\bet_1.gif" />
+    <Content Include="images\bet_10.gif" />
+    <Content Include="images\bet_100.gif" />
+    <Content Include="images\bet_2.gif" />
+    <Content Include="images\bet_25.gif" />
+    <Content Include="images\bet_5.gif" />
+    <Content Include="images\bet_50.gif" />
+    <Content Include="images\bet_500.gif" />
+    <Content Include="images\bet_line.gif" />
+    <Content Include="images\blank.gif" />
+    <Content Include="images\cherry.gif" />
+    <Content Include="images\grapes.gif" />
+    <Content Include="images\orange.gif" />
+    <Content Include="images\powerbutton.gif" />
+    <Content Include="images\reset.gif" />
+    <Content Include="images\seven.gif" />
+    <Content Include="images\slotmachine.gif" />
+    <Content Include="images\spin.gif" />
+    <Content Include="images\spin_disabled.gif" />
+    <Content Include="images\spin_pressed.gif" />
+    <Content Include="index.html" />
     <Content Include="js\main.js" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -73,9 +96,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="img\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
